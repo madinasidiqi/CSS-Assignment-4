@@ -1,0 +1,13 @@
+#blue{background-color: #036ea6; text-align: center; height: 100px;}
+#white{color: white;}
+#yelow{background-color: #a38427; text-align: center; color:white; font-size:x-large;}
+.menu{margin-right: 10px; margin-left: 10px;}
+#main{width: 930px; display: inline-block; padding-left: 15px;box-shadow: 0 4px 8px 0 lightgray, 0 6px 20px 0 lightgray;min-height: 500px;}
+#side{display: inline; float: right; width: 300px; background-color: #036ea6; min-height: 500px; height: 100%;font-weight: bolder;font-size: xx-large;color: rgb(255, 255, 255);box-shadow: 0 4px 8px 0 lightgray, 0 6px 20px 0 lightgray;}
+#footer{background-color: #a38427; text-align: center;padding-top: 12px;padding-right: 12px;font-weight:bolder; height: 40px; clear: both; color:white; font-size:large;}
+.menulink{text-decoration: none;color: white;}
+.menulink:hover {font-size: 40px !important;}
+.Hmenulink{text-decoration: none;color: white;}
+.Hmenulink:hover {color:brown;}
+form input{display: block; width: 70%; height: 40px;}
+form textarea{display: block; width: 70%;}
